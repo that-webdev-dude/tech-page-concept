@@ -1,4 +1,4 @@
-# tech-page-concept
+# Tech Page
 
 ### Design Concept
 
