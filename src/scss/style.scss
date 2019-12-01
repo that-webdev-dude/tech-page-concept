@@ -1,0 +1,119 @@
+@import "cluster-css/cluster";
+
+// golbals
+html {
+  scroll-behavior: smooth;
+}
+
+// headings
+header > h3 {
+  color: lighten($ccss-primary-color, 10);
+}
+
+// codes
+.code-block,
+.code-inline {
+  background-color: darken($ccss-secondary-color, 25);
+  color: lighten($color: $ccss-secondary-color, $amount: 25);
+  border-radius: 2px;
+}
+
+.code-block {
+  padding: 0 1rem;
+  overflow: auto;
+}
+
+.code-inline {
+  padding: 0.125rem 0.5rem;
+}
+
+// sections
+.main-section {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+
+  &:last-child {
+    padding-bottom: 0;
+  }
+
+  @include ccss-on-xlarge-screen-and-up {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+  }
+}
+
+// lists
+ol,
+ul {
+  padding-left: 1rem;
+}
+
+// layout
+#layout {
+  #navbar,
+  #main-doc {
+    padding: 4rem 0;
+  }
+
+  #navbar {
+    background: repeating-linear-gradient(
+      45deg,
+      #{darken($ccss-secondary-color, 22)} 0px,
+      #{darken($ccss-secondary-color, 22)} 2px,
+      #{darken($ccss-secondary-color, 25)} 2px,
+      #{darken($ccss-secondary-color, 25)} 16px
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    #navbar-wrapper {
+      width: 100%;
+      max-width: 600px;
+      padding: 0 1rem;
+    }
+
+    #navbar-action {
+      margin-bottom: 0;
+    }
+
+    #navbar-links {
+      @include list-reset;
+      display: none;
+
+      li {
+        padding: 0.25rem 1rem;
+      }
+    }
+  }
+
+  @include ccss-on-xlarge-screen-and-up {
+    display: flex;
+    flex-flow: row nowrap;
+
+    #navbar,
+    #main-doc {
+      padding: 8rem 2rem;
+    }
+
+    #navbar {
+      width: 30%;
+      height: 100vh;
+      position: sticky;
+      top: 0;
+
+      #navbar-action {
+        margin-bottom: 4rem;
+      }
+
+      #navbar-links {
+        display: block;
+      }
+    }
+
+    #main-doc {
+      width: 70%;
+    }
+  }
+}
