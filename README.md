@@ -1,3 +1,5 @@
 # tech-page-concept
 
-tech-page-concept is a fantastic project.
+### Design Concept
+
+This project is part of the FCC challenges within the Responsive Web Design section.
