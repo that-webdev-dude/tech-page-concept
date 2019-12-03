@@ -11,7 +11,7 @@ A live demo of the project is available [here](https://tech-page-design.netlify.
 
 ## Authors
 
-- **iClusterDev** - _Initial work_ - [iClusterDev](https://github.com/iClusterDev)
+- **iClusterDev** - _Initial work_ - [iClusterDev](https://github.com/iClusterDev).
 
 ## License
 
