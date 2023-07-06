@@ -62,11 +62,11 @@ Overall, the web page presents information about the "type is plain object" Java
 
 ### Live Demo
 
-A live demo of the project is available [here](https://tech-page-design.netlify.com/).
+A live demo of the project is available [here](https://tech-page-concept.netlify.app/).
 
 ## Authors
 
-- **iClusterDev** - _Initial work_ - [iClusterDev](https://github.com/iClusterDev).
+- **Fabio Barracano** - _Initial work_ - [that-webdev-dude](https://github.com/that-webdev-dude).
 
 ## License
 
