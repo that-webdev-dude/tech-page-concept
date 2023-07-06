@@ -22,16 +22,19 @@ Main Content:
 The main content area is divided into different sections, each addressing a specific topic related to the JavaScript utility.
 The sections are arranged vertically and follow a consistent layout throughout the page.
 Each section has a header with a title, presented in a clear and concise manner.
+
 Installation Section:
 
 This section provides instructions for installing the utility.
 It includes two articles: "Using the Node Package Manager (NPM)" and "Or referencing the .js or .min.js file through a script tag."
 Each article contains a description and a code block illustrating the installation process.
+
 Usage Section:
 
 The usage section explains how to use the JavaScript utility.
 It provides two articles: "In Node (CommonJS)" and "Or in the Browser (ES6 modules)."
 Similar to the installation section, each article includes a description and a code block demonstrating the usage.
+
 Examples:
 
 Within the usage section, there is a subsection with examples showcasing the utility in action.
@@ -40,14 +43,17 @@ Custom Build Section:
 
 This section guides users through the process of creating a custom build of the utility.
 It provides a step-by-step explanation of the custom build process, including downloading the repository, running commands, and referencing the generated files.
+
 Contributing Section:
 
 The contributing section encourages users to contribute to the project.
 It includes a brief message inviting users to submit pull requests if they encounter any issues.
+
 Author Section:
 
 The author section provides information about the project's maintainer.
 It mentions the maintainer's name and provides a link to their GitHub profile.
+
 License Section:
 
 The license section states the licensing details for the project.
