@@ -2,7 +2,7 @@
   "name": "tech-page-concept",
   "version": "1.0.0",
   "description": "technical documentation for an NPM package",
-  "main": "index.js",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
