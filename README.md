@@ -7,7 +7,7 @@ developed and mantained by myself.
 
 The web page follows a clean and minimalistic design approach, focusing on simplicity and clarity.
 A dark theme together with white text and a vibrant primary color, creates a modern aesthetic ensuring "no distraction" for the user who needs to go through the document.
-The styles are from ClusterCSS, a minimal Sass framework developed by myself. Check the cluster-css repo here!
+The styles are from [ClusterCSS](www.google.com), a minimal Sass framework developed by myself.
 
 The title "type is plain object" is displayed prominently, followed by a paragraph explaining the purpose of the JavaScript utility.
 The header section also includes a button labeled "view on GitHub," which serves as a direct link to the GitHub repository of the project.
