@@ -2,7 +2,7 @@
 
 ### Design Concept
 
-This is a technical documentation page about a real [NPM](https://www.npmjs.com) package named ["type-is-plain-object"](https://www.npmjs.com/package/type-is-plain-object), an NPM package
+This is a technical documentation page about a real [NPM](https://www.npmjs.com) package named [type-is-plain-object](https://www.npmjs.com/package/type-is-plain-object), an NPM package
 developed and mantained by myself.
 
 The web page follows a clean and minimalistic design approach, focusing on simplicity and clarity.
