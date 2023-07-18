@@ -21,6 +21,9 @@ Each section has a header with a title, presented in a clear and concise manner.
 The design prioritizes readability and ease of navigation, making it easy for users to understand the utility's purpose, install it, and explore its usage.
 The consistent use of code blocks enhances the technical presentation of the content, catering to the target audience of developers.
 The page is fully responsive and suitable to be viewed on all devices.
+<br/>
+
+<img width="700px" src="https://github.com/that-webdev-dude/tech-page-concept/blob/main/screengrabs/tech-page-concept.netlify.png" alt="app screengrab">
 
 ### Live Demo
 
